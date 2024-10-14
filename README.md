@@ -1,24 +1,9 @@
-# Welcome to my Github
-
-I am a PhD Student at the Horizon Centre for Doctoral Training and the Nottingham Geospatial Institute at the University of Nottingham. My research interests are in Geographic Information Science, Platial Information, and Information Visualisation.
+I am a PhD Student interested in developing software and technologies for representing place. My research interests are in Geographic Information Science, Platial Information, and Information Visualisation.
 
 - 🔭 I’m currently working on forming the Leisure Walking Systems Working Group as part of the Horizon Impact Grant. 
 - 🌱 I’m currently learning about workshop and working group organisation, in addition to further enhancing my skills in platial-based analysis. 
 
-<!--
-**jwilliamsresearch/jwilliamsresearch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently in progress of updating my [Website](https://jwilliams.science) and [Blog](https://blog.jwilliams.science). 
 
 ## Technologies:
 ### Web Development
