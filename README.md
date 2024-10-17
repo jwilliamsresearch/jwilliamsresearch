@@ -1,9 +1,13 @@
+![Background image of a natural environment with the title J. Williams. The title is followed by jwilliams.science and github.com/jwilliamsresearch](main.png)
+
+<p align="center">
+   <a href="https://jwilliams.science">[Website]</a> - <a href="https://blog.jwilliams.science">[Blog]</a> - <a href="https://github.com/jwilliamsresearch">[GitHub]</a>
+</p>
+
 I am a PhD Student interested in developing software and technologies for representing place. My research interests are in Geographic Information Science, Platial Information, and Information Visualisation.
 
 - 🔭 I’m currently working on forming the Leisure Walking Systems Working Group as part of the Horizon Impact Grant. 
 - 🌱 I’m currently learning about workshop and working group organisation, in addition to further enhancing my skills in platial-based analysis. 
-
-I am currently in progress of updating my [Website](https://jwilliams.science) and [Blog](https://blog.jwilliams.science). 
 
 ## Technologies:
 ### Web Development
