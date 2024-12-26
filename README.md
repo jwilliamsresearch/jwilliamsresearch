@@ -6,7 +6,7 @@
 
 I am a PhD Student interested in developing software and technologies for representing place. My research interests are in Geographic Information Science, Platial Information, and Information Visualisation.
 
-- 🔭 I’m currently working on forming the Leisure Walking Systems Working Group as part of the Horizon Impact Grant. 
+- 🔭 I’m currently working on investigating the formation of a Leisure Walking Systems Working Group as part of the Horizon Impact Grant. 
 - 🌱 I’m currently learning about workshop and working group organisation, in addition to further enhancing my skills in platial-based analysis. 
 
 ## Technologies:
