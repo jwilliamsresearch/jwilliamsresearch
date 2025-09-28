@@ -25,7 +25,7 @@ At Newman I lead modules in:
 
 - **Cyber Security (CMU540)** – hands-on ethical hacking, security standards, and cyber risk.
 - **Web Design (CMU422)** – HTML, CSS, and JS with client-facing project briefs.
-- **Programming Fundamentals (CMU410)** – first-year programming, problem-solving, and computational thinking.
+- **Advanced Web Development (CMU529)** – Advanced web development using PHP, SQL, etc.
 
 I build open-access lecture sites at [jwilliams.science/lectures](https://jwilliams.science/lectures).
 
