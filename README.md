@@ -1,4 +1,4 @@
-![Background image of a natural environment with the title J. Williams. The title is followed by jwilliams.science and github.com/jwilliamsresearch](main.png)
+![Background image of a digital environment with the title James Williams. The title is followed by jwilliams.science the text 'Geospatial Computer Scientist'](bg.png)
 
 <p align="center">
 <code>Geospatial Computer Scientist</code>
