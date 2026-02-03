@@ -12,18 +12,33 @@
 <a href="https://jwilliams.science">
 <img src="assets/card-bio.png" alt="Research Profile" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </a>
+<br />
+<p align="center" style="font-family: sans-serif; color: #ddd;">
+<b>Research Profile</b><br />
+Lecturer at Birmingham Newman University & Research Associate at University of Nottingham.
+</p>
 </td>
 <!-- Chora Card -->
 <td width="33%" valign="top" align="center">
 <a href="https://github.com/jwilliamsresearch/chora">
 <img src="assets/card-chora.png" alt="Chora" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </a>
+<br />
+<p align="center" style="font-family: sans-serif; color: #ddd;">
+<b>Chora (Python)</b><br />
+The Platial Modelling Operating System. Simulating human experience of place.
+</p>
 </td>
 <!-- Spatial Narrative Card -->
 <td width="33%" valign="top" align="center">
 <a href="https://github.com/jwilliamsresearch/spatial-narrative">
 <img src="assets/card-spatial.png" alt="Spatial Narrative" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </a>
+<br />
+<p align="center" style="font-family: sans-serif; color: #ddd;">
+<b>Spatial Narrative (Rust)</b><br />
+High-performance library for indexing and analyzing events in space-time.
+</p>
 </td>
 </tr>
 <tr>
@@ -32,18 +47,33 @@
 <a href="https://platialatlas.org">
 <img src="assets/card-atlas.png" alt="Platial Atlas" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </a>
+<br />
+<p align="center" style="font-family: sans-serif; color: #ddd;">
+<b>Platial Atlas</b><br />
+Global ETL & Analytics pipeline for functional urban regions.
+</p>
 </td>
 <!-- Tech Stack -->
 <td width="33%" valign="top" align="center">
 <a href="#tech-stack">
 <img src="assets/card-tech.png" alt="Tech Stack" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </a>
+<br />
+<p align="center" style="font-family: sans-serif; color: #ddd;">
+<b>Tech Stack</b><br />
+Python • Rust • Geospatial AI • React • Astro • PostGIS
+</p>
 </td>
 <!-- Connect -->
 <td width="33%" valign="top" align="center">
 <a href="#connect">
 <img src="assets/card-connect.png" alt="Connect" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </a>
+<br />
+<p align="center" style="font-family: sans-serif; color: #ddd;">
+<b>Get in Touch</b><br />
+Collaboration & Supervision
+</p>
 </td>
 </tr>
 </table>
