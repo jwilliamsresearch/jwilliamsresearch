@@ -7,10 +7,10 @@
 <div align="center">
   <table border="0" width="100%" cellspacing="10" cellpadding="0">
     <tr>
-      <!-- Research Profile Card (Generated Image) -->
+      <!-- Research Profile Card -->
       <td width="33%" valign="top" align="center">
         <a href="https://jwilliams.science">
-          <img src="assets/card-profile.png" alt="Research Profile" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+          <img src="assets/card-bio.png" alt="Research Profile" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
         </a>
         <br /><br />
         <p style="color: #a0a0ff; font-family: sans-serif;">
@@ -18,49 +18,23 @@
         </p>
       </td>
 
-      <!-- Chora Card (CSS Styled Fallback - Glassmorphism) -->
+      <!-- Chora Card -->
       <td width="33%" valign="top" align="center">
-        <a href="https://github.com/jwilliamsresearch/chora" style="text-decoration: none;">
-          <div style="
-            background: linear-gradient(135deg, rgba(20, 30, 80, 0.9), rgba(50, 20, 90, 0.8));
-            border-radius: 15px;
-            padding: 40px 20px;
-            height: 150px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-          ">
-            <h2 style="color: white; margin: 0; font-family: sans-serif; text-shadow: 0 0 10px rgba(0,255,255,0.5);">Chora</h2>
-            <p style="color: #ccddff; margin: 5px 0 0 0; font-size: 0.8em;">(Python)</p>
-          </div>
+        <a href="https://github.com/jwilliamsresearch/chora">
+          <img src="assets/card-chora.png" alt="Chora" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
         </a>
-        <br />
+        <br /><br />
         <p style="color: #a0a0ff; font-family: sans-serif;">
           The Platial Modelling Operating System. Simulating human experience of place.
         </p>
       </td>
 
-      <!-- Spatial Narrative Card (CSS Styled Fallback) -->
+      <!-- Spatial Narrative Card -->
       <td width="33%" valign="top" align="center">
-        <a href="https://github.com/jwilliamsresearch/spatial-narrative" style="text-decoration: none;">
-           <div style="
-            background: linear-gradient(135deg, rgba(10, 50, 80, 0.9), rgba(20, 80, 100, 0.8));
-            border-radius: 15px;
-            padding: 40px 20px;
-            height: 150px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-             border: 1px solid rgba(255, 255, 255, 0.1);
-          ">
-            <h2 style="color: white; margin: 0; font-family: sans-serif; text-shadow: 0 0 10px rgba(0,255,255,0.5);">Spatial Narrative</h2>
-            <p style="color: #ccddff; margin: 5px 0 0 0; font-size: 0.8em;">(Rust)</p>
-          </div>
+        <a href="https://github.com/jwilliamsresearch/spatial-narrative">
+           <img src="assets/card-spatial.png" alt="Spatial Narrative" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
         </a>
-        <br />
+        <br /><br />
         <p style="color: #a0a0ff; font-family: sans-serif;">
           High-performance library for indexing and analyzing events in space-time.
         </p>
@@ -69,22 +43,10 @@
     <tr>
       <!-- Platial Atlas -->
       <td width="33%" valign="top" align="center">
-        <a href="https://platialatlas.org" style="text-decoration: none;">
-          <div style="
-            background: linear-gradient(135deg, rgba(60, 20, 80, 0.9), rgba(100, 40, 60, 0.8));
-            border-radius: 15px;
-            padding: 40px 20px;
-            height: 150px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-             border: 1px solid rgba(255, 255, 255, 0.1);
-          ">
-            <h2 style="color: white; margin: 0; font-family: sans-serif; text-shadow: 0 0 10px rgba(255,100,200,0.5);">Platial Atlas</h2>
-          </div>
+        <a href="https://platialatlas.org">
+          <img src="assets/card-atlas.png" alt="Platial Atlas" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
         </a>
-        <br />
+        <br /><br />
         <p style="color: #a0a0ff; font-family: sans-serif;">
           Global ETL & Analytics pipeline for functional urban regions.
         </p>
@@ -92,22 +54,10 @@
 
       <!-- Tech Stack -->
       <td width="33%" valign="top" align="center">
-        <a href="#tech-stack" style="text-decoration: none;">
-           <div style="
-            background: linear-gradient(135deg, rgba(20, 20, 30, 0.9), rgba(50, 50, 70, 0.8));
-            border-radius: 15px;
-            padding: 40px 20px;
-            height: 150px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-             border: 1px solid rgba(255, 255, 255, 0.1);
-          ">
-            <h2 style="color: white; margin: 0; font-family: sans-serif;">Tech Stack</h2>
-          </div>
+        <a href="#tech-stack">
+           <img src="assets/card-tech.png" alt="Tech Stack" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
         </a>
-        <br />
+        <br /><br />
         <p style="color: #a0a0ff; font-family: sans-serif;">
           Python • Rust • Geospatial AI • React • Astro • PostGIS
         </p>
@@ -115,22 +65,10 @@
 
       <!-- Connect -->
       <td width="33%" valign="top" align="center">
-        <a href="#connect" style="text-decoration: none;">
-           <div style="
-            background: linear-gradient(135deg, rgba(10, 80, 60, 0.9), rgba(20, 120, 80, 0.8));
-            border-radius: 15px;
-            padding: 40px 20px;
-            height: 150px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-             border: 1px solid rgba(255, 255, 255, 0.1);
-          ">
-            <h2 style="color: white; margin: 0; font-family: sans-serif;">Get in Touch</h2>
-          </div>
+        <a href="#connect">
+           <img src="assets/card-connect.png" alt="Connect" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
         </a>
-        <br />
+        <br /><br />
         <p style="color: #a0a0ff; font-family: sans-serif;">
           Collaboration & Supervision
         </p>
