@@ -1,6 +1,3 @@
-<div align="center">
-<img src="assets/header.png" alt="James Williams - Geospatial Computer Scientist" width="100%" />
-</div>
 
 <br />
 
